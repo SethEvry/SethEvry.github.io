@@ -1,0 +1,25 @@
+body {
+    background-color: rgba(0, 0, 0, 0.9);
+    justify-content: center;
+    text-align: center;
+}
+div{
+    position: absolute;
+    top:50%;
+    text-align: center;
+    max-width: 480px;
+}
+ul{
+    text-align: center;
+}
+li{
+
+    display:inline-block;
+    text-decoration: none;
+}
+a:link {
+    color: rgb(221, 216, 216);
+}
+a:visited {
+    color:rgba(104, 104, 104, 0.726);
+}
